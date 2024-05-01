@@ -59,9 +59,7 @@ Using which we can recognise the face and add in the database.
 In its application, the camera will be open and faces will be recorded and analysed in real
 time and if present name will be marked as present in the xlxs sheet.
 
-![Attendance](./images/Attendance.png)
 
-![XLXS_Demo](./images/xlxs.png)
 
 **Creating an optimum solution and a better society.
 Viola!**
